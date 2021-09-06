@@ -1,6 +1,6 @@
 #!/bin/bash
 #内核源码地址
-KERNEL_URL=https://github.com/oppo-source/R15Pro-9.0-kernel-source
+KERNEL_URL=https://github.com/tao1996/oppo_r11s_kernel-10
 #内核defconfig
 KERNEL_DEFCONFIG=sdm660_perf_defconfig
 
