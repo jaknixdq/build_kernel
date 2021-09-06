@@ -7,7 +7,7 @@ KERNEL_DEFCONFIG=sdm660_perf_defconfig
 #谷歌GCC4.9
 echo "|| Cloning GCC ||"
 
-git clone -b master https://github.com/redfeast/android_kernel_oppo_RMX1801 gcc
+git clone -b master https://github.com/color597/android_kernel_oppo_r11 gcc
 
 cd ./gcc
 tar -cvpzf /home/runner/gcc32.tar.gz ./
